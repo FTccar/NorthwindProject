@@ -1,0 +1,16 @@
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.dll
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.pdb
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.dll
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\bin\Debug\Northwind.Entities.dll
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\bin\Debug\Northwind.Interfaces.dll
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\bin\Debug\EntityFramework.dll
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.pdb
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.dll.config
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\bin\Debug\Northwind.Entities.pdb
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\bin\Debug\Northwind.Interfaces.pdb
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\bin\Debug\EntityFramework.xml
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.csprojAssemblyReference.cache
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.csproj.CoreCompileInputs.cache
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.csproj.CopyComplete
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.dll
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.pdb

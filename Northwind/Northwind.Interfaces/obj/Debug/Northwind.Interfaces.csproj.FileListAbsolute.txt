@@ -1,0 +1,9 @@
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Interfaces.dll
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Interfaces.pdb
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Entities.dll
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Entities.pdb
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.csprojAssemblyReference.cache
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.csproj.CopyComplete
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.dll
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.pdb
