@@ -1,4 +1,4 @@
-﻿@model System.Collections.Generic.List<Northwind.Entities.Product>
+﻿@model Northwind.MvcWebUI.Models.ProductViewModel
 @{
     Layout = null;
 }
@@ -13,12 +13,15 @@
 <body>
     <div>
         <ul>
-            @foreach (var product in Model)
+            @foreach (var product in Model.Products)
             {
-                <li>@product.ProductName;</li>
+            <h3>@product.ProductName</h3>
+            <h3>@product.UnitPrice</h3>
             }
         </ul>
-
+        <div class="pager">
+            @Html.Pager(Model.PagingInfo)
+        </div>
     </div>
 </body>
 </html>

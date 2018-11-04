@@ -2,6 +2,7 @@
 using Northwind.Dal.Concrete.EntityFramework;
 using Northwind.Entities;
 using Northwind.Interfaces;
+using Northwind.MvcWebUI.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,10 +21,21 @@ namespace Northwind.MvcWebUI.Controllers
             _productService = productService;
         }
 
-        public ViewResult Index()
+        public int pageSize = 5;
+        public ViewResult Index(int page = 1)
         {
             List<Product> products = _productService.GetAll();
-            return View(products);
+
+            return View(new ProductViewModel
+            {
+                Products = _productService.GetAll().Skip((page - 1) * pageSize).Take(5).ToList(),
+                PagingInfo = new PageInfo
+                {
+                    ItemsPerPage = pageSize,
+                    TotalItems = products.Count,
+                    CurrentPage = page
+                }
+            });
         }
     }
 }

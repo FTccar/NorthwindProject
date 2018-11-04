@@ -102,3 +102,5 @@ C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.MvcWebUI\bin\Northwind.I
 C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.MvcWebUI\bin\EntityFramework.xml
 C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.MvcWebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.MvcWebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.MvcWebUI\bin\Ninject.dll
+C:\Users\Ferdi\Desktop\Projects.NET\Northwind\Northwind.MvcWebUI\bin\Ninject.xml
